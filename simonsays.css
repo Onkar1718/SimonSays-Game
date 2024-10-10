@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+}
+h3{
+    font-size: 30px;
+}
+.btn-container{
+    justify-content:center ;
+    display: flex;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 7px solid white ;
+    border-radius: 20%;
+    margin: 2rem;
+}
+.btn1{
+    background-color: rgb(0, 255, 0)
+}
+.btn2{
+    background-color: rgb(255, 255, 0)
+}
+.btn3{
+    background-color: rgb(255, 0, 0)
+}
+.btn4{
+    background-color: rgb(3, 49, 255)
+}
+.flash{
+    opacity: 0.5;
+}
+
+button{
+    height:80px;
+    width: 400px;
+    font-size: 50px;
+    margin-top: 200px;
+}
